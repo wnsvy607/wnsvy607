@@ -1,6 +1,7 @@
 ### Primary skills
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![jpa](https://img.shields.io/badge/JPA-A100FF?style=for-the-badge&logo=openjdk&logoColor=white)
 ![querydsl](https://img.shields.io/badge/QueryDSL-0769AD?style=for-the-badge&logo=openjdk&logoColor=white)
 ![hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
@@ -20,6 +21,8 @@
 
 
 ### Secondary skills
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?&style=for-the-badge&logo=RabbitMQ&logoColor=white)
+
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -27,7 +30,6 @@
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 
 ### Etc
