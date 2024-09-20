@@ -41,3 +41,8 @@
 ## Etc
 [![github stats](https://github-readme-stats.vercel.app/api?username=wnsvy607&show_icons=true&hide_border=true)](https://github.com/wnsvy607)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsvy607&layout=compact)](https://github.com/wnsvy607)
+
+## 🎫 Certificate
+* 정보처리기사 (2024.09)
+* SQLD (2024.09)
+* PCCP LV.3 Java (2024.05)
