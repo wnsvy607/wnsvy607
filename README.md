@@ -1,4 +1,10 @@
-### Primary skills
+## 😀 안녕하세요 이준표입니다
+
+* (현) KT DS
+* (전) 핸듀
+* (전) 중앙대 중국어문학과 / 소프트웨어인문융합전공
+
+## Primary skills
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -20,7 +26,7 @@
 ![elb](https://img.shields.io/badge/elastic%20beanstalk-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-### Secondary skills
+## Secondary skills
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?&style=for-the-badge&logo=RabbitMQ&logoColor=white)
 
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -32,6 +38,6 @@
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
-### Etc
+## Etc
 [![github stats](https://github-readme-stats.vercel.app/api?username=wnsvy607&show_icons=true&hide_border=true)](https://github.com/wnsvy607)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsvy607&layout=compact)](https://github.com/wnsvy607)
